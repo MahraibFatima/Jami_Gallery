@@ -55,7 +55,7 @@ Open `index.html`. Done.
 
 ## why this exists
 
-Converted from Astro [repo link](https://silent-lens.vercel.app/) [website link](https://silent-lens.vercel.app/) because sometimes you just want vanilla HTML that works everywhere without npm hell.
+Converted from Astro [repo link](https://silent-lens.vercel.app/) and [website link](https://silent-lens.vercel.app/) because sometimes you just want vanilla HTML that works everywhere without npm hell.
 
 ---
 
